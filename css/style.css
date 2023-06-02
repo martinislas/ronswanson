@@ -124,7 +124,9 @@ footer {
   flex-wrap: wrap;
   font-size:xx-small
 }
-
+p{
+  background-color: blanchedalmond
+}
 /******************************************
 /* ADDITIONAL STYLES
 
